@@ -1,2 +1,11 @@
+*~
 *.agdai
 MAlonzo/**
+_build
+.#*
+\#*
+*.o
+*.hi
+MAlonzo
+dist
+dist-newstyle
